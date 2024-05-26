@@ -15,6 +15,11 @@ Or, click the Chrome menu, hover over More Tools, then select Extensions.
 2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
 3. Click the Load unpacked button and select the extension directory i.e. the unzipped file
+![image](https://github.com/GregP-Navdna/Embedded_RugCheck_DexScreener/assets/104438530/47c1bbd1-747d-4d59-8b50-1a053f9548fe)
+
+![image](https://github.com/GregP-Navdna/Embedded_RugCheck_DexScreener/assets/104438530/5766caba-0a10-4c85-9f02-200789ac387b)
+
+Bar across the top has Refresh, Hide, Open in Birdey Pass to telegram bonkbog (almost works) and close
+![image](https://github.com/GregP-Navdna/Embedded_RugCheck_DexScreener/assets/104438530/7f1479fb-417a-488a-a658-a3922b06f342)
 
 
-![Widget screenshot](https://github.com/saintmaxi/anonymice/blob/ee3ebab180b79d19cbadd455c6c73d046fec3c47/Rugcheck%20Dexscreener%20Extension.png?raw=true)
