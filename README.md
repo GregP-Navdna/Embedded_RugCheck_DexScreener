@@ -15,6 +15,7 @@ Or, click the Chrome menu, hover over More Tools, then select Extensions.
 2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
 3. Click the Load unpacked button and select the extension directory i.e. the unzipped file
+   
 ![image](https://github.com/GregP-Navdna/Embedded_RugCheck_DexScreener/assets/104438530/47c1bbd1-747d-4d59-8b50-1a053f9548fe)
 
 ![image](https://github.com/GregP-Navdna/Embedded_RugCheck_DexScreener/assets/104438530/5766caba-0a10-4c85-9f02-200789ac387b)
