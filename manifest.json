@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Rug Check In DexScreener",
+  "version": "0.9",
+  "permissions": ["activeTab"],
+  "host_permissions": ["https://dexscreener.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://dexscreener.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
